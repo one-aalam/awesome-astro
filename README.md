@@ -6,6 +6,7 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 ## Blogs
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
 - [A Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
+- [Our experience with Astro](https://divriots.com/blog/our-experience-with-astro/) - [Georges](https://twitter.com/georges_gomes)
 
 
 ## Repositories
