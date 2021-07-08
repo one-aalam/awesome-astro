@@ -9,8 +9,8 @@ Astro is _super duper new_ and it won't be the right time to trust with really h
 
 
 ## Repositories
-[Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
-[Astro-note](https://github.com/one-aalam/astro-note)
+- [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
+- [Astro-note](https://github.com/one-aalam/astro-note)
 
 
 
