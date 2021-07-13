@@ -19,7 +19,7 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 ## Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
 - [__Nate Moore__ on Incremental Framework adoption](https://twitter.com/astrodotbuild/status/1414283562795208707), [Solid.js](https://www.solidjs.com/) support, and a future without `import React from 'react'` for components.
-- [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377) and server-rendered custom elements
+- [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377), [lit](https://twitter.com/matthewcp/status/1407826230129332228) and server-rendered custom elements
 
 
 ## Repositories
