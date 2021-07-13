@@ -14,10 +14,12 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 - [Build wicked fast sites with Astro: An Introduction](https://www.netlify.com/blog/2021/07/08/build-wicked-fast-sites-with-astro-an-introduction/) - 
 
 ## Videos/Screencasts/Twitch
-- [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - [Cassidy Williams](https://twitter.com/cassidoo)
+- [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
 
 ## Condensed Thought-pieces (Twitter Threads)
-- [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304)
+- [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
+- [__Nate Moore__ on Incremental Framework adoption](https://twitter.com/astrodotbuild/status/1414283562795208707), [Solid.js](https://www.solidjs.com/) support, and a future without `import React from 'react'` for components.
+- [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377) and server-rendered custom elements
 
 
 ## Repositories
