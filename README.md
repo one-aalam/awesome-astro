@@ -15,6 +15,7 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 
 ## 📹 Videos/Screencasts/Twitch
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
+- [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
