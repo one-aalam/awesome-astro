@@ -12,6 +12,8 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 - Astro with [Netlify CMS](https://navillus.dev/blog/astro-plus-netlify-cms), [Forestry CMS](https://navillus.dev/blog/astro-plus-forestry), and [Snipcart](https://navillus.dev/blog/astro-plus-snipcart) - [Navillus](https://navillus.dev/)
 - [How to Use Astro to Build React Apps without JavaScript](https://spacejelly.dev/posts/how-to-use-astro-to-build-react-apps-without-javascript/) - [Colby Fayock](https://twitter.com/colbyfayock)
 - [Build wicked fast sites with Astro: An Introduction](https://www.netlify.com/blog/2021/07/08/build-wicked-fast-sites-with-astro-an-introduction/) - [Cassidy Williams](https://twitter.com/cassidoo)
+- [A first look at Astro, astronomical results](https://daily-dev-tips.com/posts/a-first-look-at-astra-astronomical-results/)
+- [Why Astro matters](https://dev.to/endymion1818/why-astro-matters-55nj)
 
 ## 📹 Videos/Screencasts/Twitch
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
