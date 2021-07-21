@@ -14,20 +14,24 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 - [Build wicked fast sites with Astro: An Introduction](https://www.netlify.com/blog/2021/07/08/build-wicked-fast-sites-with-astro-an-introduction/) - [Cassidy Williams](https://twitter.com/cassidoo)
 - [A first look at Astro, astronomical results](https://daily-dev-tips.com/posts/a-first-look-at-astra-astronomical-results/)
 - [Why Astro matters](https://dev.to/endymion1818/why-astro-matters-55nj)
+- [SvelteKit to Astro](https://navillus.dev/blog/converting-navillus-to-astro)
 
 ## 📹 Videos/Screencasts/Twitch
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
 - [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
+- [Astro in 100 Seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8) - __Jeff Delaney__ (Fireship)
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
 - [__Nate Moore__ on Incremental Framework adoption](https://twitter.com/astrodotbuild/status/1414283562795208707), [Solid.js](https://www.solidjs.com/) support, and a future without `import React from 'react'` for components.
 - [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377), [lit](https://twitter.com/matthewcp/status/1407826230129332228) and server-rendered custom elements
 - [__Matthew Phillips__ on Astro Loading](https://twitter.com/matthewcp/status/1414957982652243970)
+- [__Nate Moore__ on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
 
 
 ## ℹ️ Repositories/Starter Kits
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
+- [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
 - [Astro-note](https://github.com/one-aalam/astro-note)
 
 
