@@ -29,10 +29,11 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 - [__Nate Moore__ on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
 
 
-## ℹ️ Repositories/Starter Kits
+## ℹ️ Repositories/Starter Kits/Components
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
-- [Astro-note](https://github.com/one-aalam/astro-note)
+- [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
+- [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 
 
 
