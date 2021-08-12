@@ -15,6 +15,7 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 - [A first look at Astro, astronomical results](https://daily-dev-tips.com/posts/a-first-look-at-astra-astronomical-results/)
 - [Why Astro matters](https://dev.to/endymion1818/why-astro-matters-55nj)
 - [SvelteKit to Astro](https://navillus.dev/blog/converting-navillus-to-astro)
+- [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
 
 ## 📹 Videos/Screencasts/Twitch
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
