@@ -9,13 +9,15 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 - [Thoughts on Astro](https://css-tricks.com/newsletter/255-thoughts-on-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
 - [Our experience with Astro](https://divriots.com/blog/our-experience-with-astro/) - [Georges](https://twitter.com/georges_gomes)
 - [Why I built my blog with Astro](https://aseemtaneja.com/why-i-built-my-blog-with-astro/) - [Aseem Taneja](https://twitter.com/aseemtaneja)
-- Astro with [Netlify CMS](https://navillus.dev/blog/astro-plus-netlify-cms), [Forestry CMS](https://navillus.dev/blog/astro-plus-forestry), and [Snipcart](https://navillus.dev/blog/astro-plus-snipcart) - [Navillus](https://navillus.dev/)
+- Astro with [Netlify CMS](https://navillus.dev/blog/astro-plus-netlify-cms), [Forestry CMS](https://navillus.dev/blog/astro-plus-forestry)([re-visited](https://navillus.dev/blog/astro-plus-forestry-revisited)), and [Snipcart](https://navillus.dev/blog/astro-plus-snipcart) - [Navillus](https://navillus.dev/)
 - [How to Use Astro to Build React Apps without JavaScript](https://spacejelly.dev/posts/how-to-use-astro-to-build-react-apps-without-javascript/) - [Colby Fayock](https://twitter.com/colbyfayock)
 - [Build wicked fast sites with Astro: An Introduction](https://www.netlify.com/blog/2021/07/08/build-wicked-fast-sites-with-astro-an-introduction/) - [Cassidy Williams](https://twitter.com/cassidoo)
 - [A first look at Astro, astronomical results](https://daily-dev-tips.com/posts/a-first-look-at-astra-astronomical-results/)
 - [Why Astro matters](https://dev.to/endymion1818/why-astro-matters-55nj)
 - [SvelteKit to Astro](https://navillus.dev/blog/converting-navillus-to-astro)
+- [Getting Started With Astro — The Innovative Static Site Generator](https://javascript.plainenglish.io/astro-cec429f049d)
 - [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
+
 
 ## 📹 Videos/Screencasts/Twitch
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
