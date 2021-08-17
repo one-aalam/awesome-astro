@@ -1,9 +1,9 @@
 # Awesome Astro
-Curated resources on __building sites with Astro__, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
+Curated resources on __building sites with Astro__, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏.
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
-__[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?](https://next.docs.astro.build/getting-started)__
+__[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?](https://next.docs.astro.build/getting-started)__ - __[Twitter](https://twitter.com/astrodotbuild)__
 
 ## ✍️ Blogs
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
@@ -40,15 +40,3 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 
-
-
-## 🐦 Twitter
-[@astrodotbuild](https://twitter.com/astrodotbuild)
-
-
-
-
-### Who am I?
-I'm a [Software Engineer](https://github.com/one-aalam) and a _"new tech"_ explorer. I stumbled upon Astro, I liked it and I think it's pretty innovative way to build static + server-rendered sites. 
-
-📰 _I have a blog series brewing, but will hold on to it till few of the APIs are stable._
