@@ -33,6 +33,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377), [lit](https://twitter.com/matthewcp/status/1407826230129332228) and server-rendered custom elements
 - [__Matthew Phillips__ on Astro Loading](https://twitter.com/matthewcp/status/1414957982652243970)
 - [__Nate Moore__ on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
+- [__Astro's__ super-fast Go compiler](https://twitter.com/astrodotbuild/status/1426219847671681024)(Coming Soon)
 
 
 ## ℹ️ Repositories/Starter Kits/Components
