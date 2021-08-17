@@ -19,6 +19,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [SvelteKit to Astro](https://navillus.dev/blog/converting-navillus-to-astro)
 - [Getting Started With Astro — The Innovative Static Site Generator](https://javascript.plainenglish.io/astro-cec429f049d)
 - [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
+- Build a Recipe collection website with Astro - Parts &rarr; [1](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections/) - [2](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-2-homepage-rendering/) - [3](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-3-category-filter-pages/) - [4](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-4-styling-the-website/) - [5](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-5-hosting-on-netlify/)
 
 
 ## 📹 Videos/Screencasts/Twitch
