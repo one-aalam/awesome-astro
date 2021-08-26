@@ -20,12 +20,15 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Getting Started With Astro — The Innovative Static Site Generator](https://javascript.plainenglish.io/astro-cec429f049d)
 - [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
 - Build a Recipe collection website with Astro - Parts &rarr; [1](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections/) - [2](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-2-homepage-rendering/) - [3](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-3-category-filter-pages/) - [4](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-4-styling-the-website/) - [5](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-5-hosting-on-netlify/)
+- [Astro: Build faster apps with less JavaScript](https://blog.logrocket.com/astro-build-faster-apps-less-javascript/)
 
 
 ## 📹 Videos/Screencasts/Twitch
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
 - [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
 - [Astro in 100 Seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8) - __Jeff Delaney__ (Fireship)
+- [Yapping About Astro](https://www.youtube.com/watch?v=3jPaidbpUIA) - __Chris Coyier__ (CSS Tricks)
+- [Astro FTW! Vue and React can work together in the same app](https://www.youtube.com/watch?v=sUrxtZA2sA0) - __Jamstack Fridays__
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
