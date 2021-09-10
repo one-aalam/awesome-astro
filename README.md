@@ -21,6 +21,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
 - Build a Recipe collection website with Astro - Parts &rarr; [1](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections/) - [2](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-2-homepage-rendering/) - [3](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-3-category-filter-pages/) - [4](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-4-styling-the-website/) - [5](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-5-hosting-on-netlify/)
 - [Astro: Build faster apps with less JavaScript](https://blog.logrocket.com/astro-build-faster-apps-less-javascript/)
+- [5-Part Blog Series - Learn Astro while building Ink](https://aalam.in/blog/astro-get-up-and-running) - [1](https://aalam.in/blog/astro-get-up-and-running) - [2](https://aalam.in/blog/astro-and-site-strcuture) - [3](https://aalam.in/blog/astro-and-data) - [4](https://aalam.in/blog/astro-and-interactivity) - [5](https://aalam.in/blog/astro-and-dynamic-pages)
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -43,6 +44,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 ## ℹ️ Repositories/Starter Kits/Components
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
+- [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 
