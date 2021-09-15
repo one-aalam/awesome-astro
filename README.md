@@ -48,3 +48,8 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 
+## Built with Astro
+- [https://backlight.dev/](https://backlight.dev/)
+- [T3 Tools](https://t3.gg/)
+- [Easybank Landing Page](https://markteekman.github.io/easybank-landing-page/)([source](https://github.com/markteekman/easybank-landing-page)) 
+
