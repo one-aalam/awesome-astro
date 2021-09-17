@@ -47,6 +47,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
+- [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 
 ## Built with Astro
 - [Backlight](https://backlight.dev/)
