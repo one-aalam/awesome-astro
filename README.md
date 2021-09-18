@@ -51,6 +51,12 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 
 ## Built with Astro
 - [Backlight](https://backlight.dev/)
+- [Apparently.cz](https://apparently.cz)
 - [T3 Tools](https://t3.gg/)
 - [Easybank Landing Page](https://markteekman.github.io/easybank-landing-page/)([source](https://github.com/markteekman/easybank-landing-page)) 
+
+## Astro Packages/Libraries
+- [Astro SEO](https://github.com/jonasmerlin/astro-seo)
+- [Astro Stylesheet Component](https://www.npmjs.com/package/astro-ui-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
+- [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
 
