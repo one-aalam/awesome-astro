@@ -59,4 +59,5 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo)
 - [Astro Stylesheet Component](https://www.npmjs.com/package/astro-ui-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
 - [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
+- [Astro Pandoc](https://github.com/trashhalo/astro-pandoc)
 
