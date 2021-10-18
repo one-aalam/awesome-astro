@@ -45,6 +45,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
+- [Astro Me](https://github.com/one-aalam/astro-me) - Crisp, minimal, personal portfolio theme for Astro
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
