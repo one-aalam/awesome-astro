@@ -49,6 +49,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
+- [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
 
 ## Built with Astro
 - [Backlight](https://backlight.dev/)
