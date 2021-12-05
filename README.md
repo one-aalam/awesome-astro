@@ -51,6 +51,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 - [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
+- [Astro Theme - Creek](https://github.com/robertguss/Astro-Theme-Creek) - A Blog theme for Astro
 
 ## Built with Astro
 - [Designcember](https://designcember.com/#3rd)
@@ -63,8 +64,9 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 
 
 ## Astro Packages/Libraries
-- [Astro SEO](https://github.com/jonasmerlin/astro-seo)
+- [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
 - [Astro Stylesheet Component](https://www.npmjs.com/package/astro-ui-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
 - [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
-- [Astro Pandoc](https://github.com/trashhalo/astro-pandoc)
+- [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
 - [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
+- [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
