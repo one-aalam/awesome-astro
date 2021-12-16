@@ -70,3 +70,4 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
 - [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
+- [Astro Image](https://github.com/RafidMuhymin/astro-image-demo)(*Not Ready*) - An image component with `vite-imagetools` is coming your way soon
