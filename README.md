@@ -33,6 +33,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro FTW! Vue and React can work together in the same app](https://www.youtube.com/watch?v=sUrxtZA2sA0) - __Jamstack Fridays__
 - [Learning Astro with Nate Moore](https://www.youtube.com/watch?v=def9EgQzRUw) - __Nate Moore__ (YouTube - React Wednesdays)
 - [Ship less JS with Astro](https://courses.jamstack.training/p/ship-less-javascript-with-astro) - __Jamstack Training__
+- [Create template layouts for your HTML with Astro SSG](https://www.youtube.com/watch?v=o7iQAF2EvUU) - __Kevin Powell__
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
