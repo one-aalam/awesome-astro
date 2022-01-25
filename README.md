@@ -58,6 +58,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 ## Built with Astro
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
+- [Trivago - Tech Blog](https://tech.trivago.com/)
 - [Rokt](https://www.rokt.com/)
 - [Backlight](https://backlight.dev/)
 - [Apparently.cz](https://apparently.cz)
