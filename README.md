@@ -23,6 +23,8 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro: Build faster apps with less JavaScript](https://blog.logrocket.com/astro-build-faster-apps-less-javascript/)
 - [5-Part Blog Series - Learn Astro while building Ink](https://aalam.in/blog/astro-get-up-and-running) - [1](https://aalam.in/blog/astro-get-up-and-running) - [2](https://aalam.in/blog/astro-and-site-strcuture) - [3](https://aalam.in/blog/astro-and-data) - [4](https://aalam.in/blog/astro-and-interactivity) - [5](https://aalam.in/blog/astro-and-dynamic-pages)
 - [Getting started with Astro](https://rodneylab.com/getting-started-astro/)
+- [Migrating from SvelteKit to Astro](https://byteofdev.com/posts/sveltekit-to-astro/)
+- [Personal website with Astro, Tailwind CSS, and Nx](https://leosvel.dev/blog/creating-my-personal-website-with-astro-tailwindcss-and-nx/)
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -69,6 +71,8 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [T3 Tools](https://t3.gg/)
 - [Easybank Landing Page](https://markteekman.github.io/easybank-landing-page/)([source](https://github.com/markteekman/easybank-landing-page))
 - [Humnutrition](https://www.humnutrition.com/)
+- [leosvel.dev](https://leosvel.dev)
+- [eriksolsen.com](https://eriksolsen.com/)
 
 
 ## Astro Packages/Libraries
