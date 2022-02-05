@@ -78,6 +78,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [leosvel.dev](https://leosvel.dev)
 - [eriksolsen.com](https://eriksolsen.com/)
 - [hexarolls.com](https://hexarolls.com/)
+- [jadezak.com](https://jadezak.com/)
 
 
 ## Astro Packages/Libraries
