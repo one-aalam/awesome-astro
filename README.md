@@ -77,6 +77,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Humnutrition](https://www.humnutrition.com/)
 - [leosvel.dev](https://leosvel.dev)
 - [eriksolsen.com](https://eriksolsen.com/)
+- [hexarolls.com](https://hexarolls.com/)
 
 
 ## Astro Packages/Libraries
