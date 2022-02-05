@@ -90,3 +90,4 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
 - [Astro Image](https://github.com/RafidMuhymin/astro-image-demo)(*Not Ready*) - An image component with `vite-imagetools` is coming your way soon
 - [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
+- [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
