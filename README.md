@@ -79,6 +79,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [eriksolsen.com](https://eriksolsen.com/)
 - [hexarolls.com](https://hexarolls.com/)
 - [jadezak.com](https://jadezak.com/)
+- [okikio.dev](https://okikio.dev)
 
 
 ## Astro Packages/Libraries
