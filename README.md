@@ -60,6 +60,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 - [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
 - [Astro Theme - Creek](https://github.com/robertguss/Astro-Theme-Creek) - A Blog theme for Astro
+- [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
 
 ## Built with Astro
 - [Designcember](https://designcember.com/#3rd)
