@@ -94,3 +94,4 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Image](https://github.com/RafidMuhymin/astro-image-demo)(*Not Ready*) - An image component with `vite-imagetools` is coming your way soon
 - [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
 - [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
+- [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
