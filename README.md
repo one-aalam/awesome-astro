@@ -10,7 +10,6 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [A Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
 - [Thoughts on Astro](https://css-tricks.com/newsletter/255-thoughts-on-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
 - [Our experience with Astro](https://divriots.com/blog/our-experience-with-astro/) - [Georges](https://twitter.com/georges_gomes)
-- [Why I built my blog with Astro](https://aseem.netlify.app/why-i-built-my-blog-with-astro/) - [Aseem Taneja](https://twitter.com/aseemtaneja)
 - Astro with [Netlify CMS](https://navillus.dev/blog/astro-plus-netlify-cms), [Forestry CMS](https://navillus.dev/blog/astro-plus-forestry)([re-visited](https://navillus.dev/blog/astro-plus-forestry-revisited)), and [Snipcart](https://navillus.dev/blog/astro-plus-snipcart) - [Navillus](https://navillus.dev/)
 - [How to Use Astro to Build React Apps without JavaScript](https://spacejelly.dev/posts/how-to-use-astro-to-build-react-apps-without-javascript/) - [Colby Fayock](https://twitter.com/colbyfayock)
 - [Build wicked fast sites with Astro: An Introduction](https://www.netlify.com/blog/2021/07/08/build-wicked-fast-sites-with-astro-an-introduction/) - [Cassidy Williams](https://twitter.com/cassidoo)
