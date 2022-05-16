@@ -3,7 +3,7 @@ Curated resources on __building sites with Astro__, a brand new way to build sta
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
-__[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?](https://next.docs.astro.build/getting-started)__ - __[Play](https://astro.build/play)__
+__[Official Docs](https://docs.astro.build/getting-started)__
 
 ## ✍️ Blogs
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
@@ -28,6 +28,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Getting started with Astro](https://rodneylab.com/getting-started-astro/)
 - [Migrating from SvelteKit to Astro](https://byteofdev.com/posts/sveltekit-to-astro/)
 - [Personal website with Astro, Tailwind CSS, and Nx](https://leosvel.dev/blog/creating-my-personal-website-with-astro-tailwindcss-and-nx/)
+- [Astro on Cloudflare Workers](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -39,6 +40,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Learning Astro with Nate Moore](https://www.youtube.com/watch?v=def9EgQzRUw) - __Nate Moore__ (YouTube - React Wednesdays)
 - [Ship less JS with Astro](https://courses.jamstack.training/p/ship-less-javascript-with-astro) - __Jamstack Training__
 - [Create template layouts for your HTML with Astro SSG](https://www.youtube.com/watch?v=o7iQAF2EvUU) - __Kevin Powell__
+- [Build faster websites with Astro](https://www.youtube.com/watch?v=x3hiyWikdrE)
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
@@ -90,7 +92,10 @@ __[Official Docs](https://docs.astro.build/getting-started)__ - __[What's Next?]
 - [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
 - [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
-- [Astro Image](https://github.com/RafidMuhymin/astro-image-demo)(*Not Ready*) - An image component with `vite-imagetools` is coming your way soon
+- [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
 - [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
 - [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
+
+## Astro Adapters
+- [Astro Firebase](https://github.com/thepassle/astro-firebase)
