@@ -83,6 +83,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [jadezak.com](https://jadezak.com/)
 - [okikio.dev](https://okikio.dev)
 - [bowling-reference.com](https://bowling-reference.com)
+- [component-party.dev](https://component-party.dev/)
 
 
 ## Astro Packages/Libraries
