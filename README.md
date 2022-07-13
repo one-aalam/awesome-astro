@@ -61,8 +61,10 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 - [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
 - [Astro Theme - Creek](https://github.com/robertguss/Astro-Theme-Creek) - A Blog theme for Astro
+- [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) - A marketing website theme built with Astro and carefully crafted for startups and businesses
 - [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
+
 
 ## Built with Astro
 - [Designcember](https://designcember.com/#3rd)
