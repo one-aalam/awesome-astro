@@ -29,6 +29,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [Migrating from SvelteKit to Astro](https://byteofdev.com/posts/sveltekit-to-astro/)
 - [Personal website with Astro, Tailwind CSS, and Nx](https://leosvel.dev/blog/creating-my-personal-website-with-astro-tailwindcss-and-nx/)
 - [Astro on Cloudflare Workers](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
+- [The case about Astro](https://okupter.com/blog/the-case-about-astro/)
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -41,6 +42,8 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [Ship less JS with Astro](https://courses.jamstack.training/p/ship-less-javascript-with-astro) - __Jamstack Training__
 - [Create template layouts for your HTML with Astro SSG](https://www.youtube.com/watch?v=o7iQAF2EvUU) - __Kevin Powell__
 - [Build faster websites with Astro](https://www.youtube.com/watch?v=x3hiyWikdrE)
+- [Add comments with Airtable and Netlify](https://www.youtube.com/watch?v=IEpP05XSwWE)
+- [Grow Community Through Open Source | Fred K. Schott of Astro| The Secret Sauce](https://www.youtube.com/watch?v=IjujjSU_cOA)
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
@@ -91,7 +94,11 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [firefla.me](https://www.firefla.me/)
 - [jmae.xyz](https://jmae.xyz/work/)
 - [meteor10](https://meteor10.sachagreif.com/)
+- [Astro Hackathon Showcase](https://hackathon-1-0-projects.vercel.app/)
 - [andri.dk/](https://andri.dk/)
+- [alchemycodelab.com](https://www.alchemycodelab.com/)
+- [petar.radojevic.rs](https://petar.radojevic.rs/en)
+- [theuprising.syncore.llc](https://theuprising.syncore.llc/)
 
 
 ## Astro Packages/Libraries
@@ -107,6 +114,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [Astro Forms](https://github.com/jackmerrill/AstroForms) - Forms in Astro made easy
 - [Astro Auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
 - [Astro Collection](https://github.com/JulianCataldo/astro) - An Astro components and configurations collection
+- [Astro Link](https://www.npmjs.com/package/@julian_cataldo/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
 
 ## Astro Adapters
