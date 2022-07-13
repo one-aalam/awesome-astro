@@ -105,6 +105,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
 - [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
 - [Astro Forms](https://github.com/jackmerrill/AstroForms) - Forms in Astro made easy
+- [Astro Auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
 
 ## Astro Adapters
