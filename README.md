@@ -116,6 +116,7 @@ __[Official Docs](https://docs.astro.build/getting-started)__
 - [Astro Collection](https://github.com/JulianCataldo/astro) - An Astro components and configurations collection
 - [Astro Link](https://www.npmjs.com/package/@julian_cataldo/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
+- [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 
 ## Astro Adapters
 - [Astro Firebase](https://github.com/thepassle/astro-firebase)
