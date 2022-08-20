@@ -3,7 +3,7 @@ Curated resources on __building sites with Astro__, a brand new way to build sta
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
-__[Official Docs](https://docs.astro.build/getting-started)__
+__[Official Docs](https://docs.astro.build)__
 
 ## ✍️ Blogs
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
