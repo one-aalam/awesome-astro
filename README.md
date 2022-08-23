@@ -63,6 +63,7 @@ __[Official Docs](https://docs.astro.build)__
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 - [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
+- [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Theme - Creek](https://github.com/robertguss/Astro-Theme-Creek) - A Blog theme for Astro
 - [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) - A marketing website theme built with Astro and carefully crafted for startups and businesses
 - [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
@@ -117,6 +118,8 @@ __[Official Docs](https://docs.astro.build)__
 - [Astro Link](https://www.npmjs.com/package/@julian_cataldo/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
 - [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
+- [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
+
 
 ## Astro Adapters
 - [Astro Firebase](https://github.com/thepassle/astro-firebase)
