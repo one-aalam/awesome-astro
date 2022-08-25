@@ -67,6 +67,7 @@ __[Official Docs](https://docs.astro.build)__
 - [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) - A marketing website theme built with Astro and carefully crafted for startups and businesses
 - [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
+- [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS. 
 
 
 ## Built with Astro
