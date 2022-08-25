@@ -63,12 +63,11 @@ __[Official Docs](https://docs.astro.build)__
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 - [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
-- [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Theme - Creek](https://github.com/robertguss/Astro-Theme-Creek) - A Blog theme for Astro
 - [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) - A marketing website theme built with Astro and carefully crafted for startups and businesses
 - [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
-
+- [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 
 ## Built with Astro
 - [Designcember](https://designcember.com/#3rd)
