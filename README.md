@@ -3,9 +3,10 @@ Curated resources on __building sites with Astro__, a brand new way to build sta
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
-__[Official Docs](https://docs.astro.build)__
+__[Official Docs](https://docs.astro.build)__ | [Launch a new project](https://astro.new/) , or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
 
 ## ✍️ Blogs
+Look for __NEW__ against the post titles to find the blogs published after Astro 1.0
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
 - [A Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
 - [Thoughts on Astro](https://css-tricks.com/newsletter/255-thoughts-on-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
@@ -30,9 +31,21 @@ __[Official Docs](https://docs.astro.build)__
 - [Personal website with Astro, Tailwind CSS, and Nx](https://leosvel.dev/blog/creating-my-personal-website-with-astro-tailwindcss-and-nx/)
 - [Astro on Cloudflare Workers](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
 - [The case about Astro](https://okupter.com/blog/the-case-about-astro/)
+- [Explore the Benefits of Astro.js by Building a Quick App](https://prismic.io/blog/astro-js-tutorial) __NEW__
+- [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) __NEW__
+- [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) __NEW__
 
 
 ## 📹 Videos/Screencasts/Twitch
+- [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
+- [Brad Traversy's Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
+- [What’s New in Astro v1?](https://www.learnwithjason.dev/what-s-new-in-astro-v1)
+- [I Try Astro For the First Time!](https://www.youtube.com/watch?v=2H9T1-H5V3M)
+- [Astro and Svelte](https://www.youtube.com/watch?v=iYKKg-50Gm4)
+- [Modern Websites with CSS Cascade Layers and Astro](https://www.twitch.tv/videos/1563918235)
+- [Taking Astro for a ride - portfolio edition](https://www.youtube.com/watch?v=QkY_rZpjEew)
+
+Pre 1.0
 - [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
 - [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
 - [Astro in 100 Seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8) - __Jeff Delaney__ (Fireship)
@@ -51,7 +64,8 @@ __[Official Docs](https://docs.astro.build)__
 - [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377), [lit](https://twitter.com/matthewcp/status/1407826230129332228) and server-rendered custom elements
 - [__Matthew Phillips__ on Astro Loading](https://twitter.com/matthewcp/status/1414957982652243970)
 - [__Nate Moore__ on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
-- [__Astro's__ super-fast Go compiler](https://twitter.com/astrodotbuild/status/1426219847671681024)(Coming Soon)
+- [Build a landing page in 30 seconds](https://twitter.com/astrodotbuild/status/1565438744500502528)
+- [Client-side routing experience with Shared Element Transitions API](https://twitter.com/charca/status/1562933467104440321)
 
 
 ## ℹ️ Repositories/Starter Kits/Components
@@ -69,8 +83,37 @@ __[Official Docs](https://docs.astro.build)__
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
 - [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS. 
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
+- [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
+- [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
+
+## Astro Packages/Libraries
+- [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
+- [Astro Stylesheet Component](https://www.npmjs.com/package/astro-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
+- [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
+- [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
+- [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
+- [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
+- [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
+- [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
+- [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
+- [Astro Forms](https://github.com/jackmerrill/AstroForms) - Forms in Astro made easy
+- [Astro Auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
+- [Astro Collection](https://github.com/JulianCataldo/astro) - An Astro components and configurations collection
+- [Astro Link](https://www.npmjs.com/package/@julian_cataldo/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
+- [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
+- [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
+- [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
+
+## Astro Integrations
+- [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
+- [@storyblok/astro](https://github.com/storyblok/storyblok-astro) - Astro module for the Storyblok, Headless CMS
+- [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro)
+
+## Astro Adapters
+- [Astro Firebase](https://github.com/thepassle/astro-firebase)
 
 ## Built with Astro
+- https://astro.build/showcase/ (__Official Showcase Directory__)
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
@@ -100,26 +143,7 @@ __[Official Docs](https://docs.astro.build)__
 - [alchemycodelab.com](https://www.alchemycodelab.com/)
 - [petar.radojevic.rs](https://petar.radojevic.rs/en)
 - [theuprising.syncore.llc](https://theuprising.syncore.llc/)
-
-
-## Astro Packages/Libraries
-- [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
-- [Astro Stylesheet Component](https://www.npmjs.com/package/astro-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
-- [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
-- [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
-- [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
-- [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
-- [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
-- [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
-- [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
-- [Astro Forms](https://github.com/jackmerrill/AstroForms) - Forms in Astro made easy
-- [Astro Auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
-- [Astro Collection](https://github.com/JulianCataldo/astro) - An Astro components and configurations collection
-- [Astro Link](https://www.npmjs.com/package/@julian_cataldo/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
-- [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
-- [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
-- [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
-
-
-## Astro Adapters
-- [Astro Firebase](https://github.com/thepassle/astro-firebase)
+- [coolify.io](https://coolify.io/)
+- [zapp.run](https://zapp.run/)
+- [jamstacker.studio](https://jamstacker.studio/)
+- [openspartan.com/](https://www.openspartan.com)
