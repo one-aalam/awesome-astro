@@ -43,6 +43,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [I Try Astro For the First Time!](https://www.youtube.com/watch?v=2H9T1-H5V3M)
 - [Astro and Svelte](https://www.youtube.com/watch?v=iYKKg-50Gm4)
 - [Modern Websites with CSS Cascade Layers and Astro](https://www.twitch.tv/videos/1563918235)
+- [The Next Wave of Web Frameworks is BYOJS](https://portal.gitnation.org/contents/the-next-wave-of-web-frameworks-is-byojs)
 - [Taking Astro for a ride - portfolio edition](https://www.youtube.com/watch?v=QkY_rZpjEew)
 
 Pre 1.0
@@ -85,6 +86,7 @@ Pre 1.0
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
+- [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -107,10 +109,9 @@ Pre 1.0
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
 - [@storyblok/astro](https://github.com/storyblok/storyblok-astro) - Astro module for the Storyblok, Headless CMS
-- [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro)
-
-## Astro Adapters
-- [Astro Firebase](https://github.com/thepassle/astro-firebase)
+- [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) - The UnoCSS integration for Astro
+- [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
+- [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
