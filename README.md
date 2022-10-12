@@ -87,6 +87,7 @@ Pre 1.0
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
+- [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
