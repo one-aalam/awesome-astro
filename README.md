@@ -102,7 +102,7 @@ Pre 1.0
 - [Astro Forms](https://github.com/jackmerrill/AstroForms) - Forms in Astro made easy
 - [Astro Auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
 - [Astro Collection](https://github.com/JulianCataldo/astro) - An Astro components and configurations collection
-- [Astro Link](https://www.npmjs.com/package/@julian_cataldo/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
+- [Astro Link](https://www.npmjs.com/package/astro-link) - Detects external / anchor / same domain / mail / telephone href, and apply optimizations accordingly
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
 - [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
