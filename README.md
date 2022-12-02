@@ -149,4 +149,4 @@ Pre 1.0
 - [zapp.run](https://zapp.run/)
 - [jamstacker.studio](https://jamstacker.studio/)
 - [openspartan.com/](https://www.openspartan.com)
-- [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog)))
+- [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
