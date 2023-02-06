@@ -151,3 +151,4 @@ Pre 1.0
 - [jamstacker.studio](https://jamstacker.studio/)
 - [openspartan.com/](https://www.openspartan.com)
 - [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
+- [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
