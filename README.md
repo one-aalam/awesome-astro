@@ -153,3 +153,4 @@ Pre 1.0
 - [openspartan.com/](https://www.openspartan.com)
 - [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
 - [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
+- [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
