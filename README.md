@@ -35,6 +35,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) __NEW__
 - [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) __NEW__
 - [Learn how to install Astro with Tailwind CSS and Flowbite](https://flowbite.com/docs/getting-started/astro/) __NEW__
+- [Automatic article suggestions in Astro](https://www.nmattia.com/posts/2023-02-25-astro-suggestions/) __NEW__
 
 
 ## 📹 Videos/Screencasts/Twitch
