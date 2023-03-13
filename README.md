@@ -1,12 +1,15 @@
 # Awesome [Astro](https://twitter.com/astrodotbuild)
-Curated resources on __building sites with Astro__, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏.
+
+Curated resources on **building sites with Astro**, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏.
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
-__[Official Docs](https://docs.astro.build)__ | [Launch a new project](https://astro.new/) , or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
+**[Official Docs](https://docs.astro.build)** | [Launch a new project](https://astro.new/) , or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
 
 ## ✍️ Blogs
-Look for __NEW__ against the post titles to find the blogs published after Astro 1.0
+
+Look for **NEW** against the post titles to find the blogs published after Astro 1.0
+
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
 - [A Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
 - [Thoughts on Astro](https://css-tricks.com/newsletter/255-thoughts-on-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
@@ -21,23 +24,23 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Astro Will Become Your Favorite Static Site Generator](https://javascript.plainenglish.io/astro-906b03f63ab8)
 - [Build a Recipe collection website with Astro](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections) - Parts &rarr; [1](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-1-setup-collections/) - [2](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-2-homepage-rendering/) - [3](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-3-category-filter-pages/) - [4](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-4-styling-the-website/) - [5](https://daily-dev-tips.com/posts/astro-recipe-collection-website-part-5-hosting-on-netlify/)
 - [Astro: Build faster apps with less JavaScript](https://blog.logrocket.com/astro-build-faster-apps-less-javascript/)
-- [Series - Learn Astro while building Ink - Get Up & Running](https://aalam.in/blog/astro-get-up-and-running) 
-- [Series - Learn Astro while building Ink - Astro and Site Structure](https://aalam.in/blog/astro-and-site-strcuture) 
-- [Series - Learn Astro while building Ink - Astro and Data](https://aalam.in/blog/astro-and-data) 
-- [Series - Learn Astro while building Ink - Astro and Interactivity](https://aalam.in/blog/astro-and-interactivity) 
+- [Series - Learn Astro while building Ink - Get Up & Running](https://aalam.in/blog/astro-get-up-and-running)
+- [Series - Learn Astro while building Ink - Astro and Site Structure](https://aalam.in/blog/astro-and-site-strcuture)
+- [Series - Learn Astro while building Ink - Astro and Data](https://aalam.in/blog/astro-and-data)
+- [Series - Learn Astro while building Ink - Astro and Interactivity](https://aalam.in/blog/astro-and-interactivity)
 - [Series - Learn Astro while building Ink - Astro and Dynamic Pages](https://aalam.in/blog/astro-and-dynamic-pages)
 - [Getting started with Astro](https://rodneylab.com/getting-started-astro/)
 - [Migrating from SvelteKit to Astro](https://byteofdev.com/posts/sveltekit-to-astro/)
 - [Personal website with Astro, Tailwind CSS, and Nx](https://leosvel.dev/blog/creating-my-personal-website-with-astro-tailwindcss-and-nx/)
 - [Astro on Cloudflare Workers](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
 - [The case about Astro](https://okupter.com/blog/the-case-about-astro/)
-- [Explore the Benefits of Astro.js by Building a Quick App](https://prismic.io/blog/astro-js-tutorial) __NEW__
-- [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) __NEW__
-- [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) __NEW__
-- [Learn how to install Astro with Tailwind CSS and Flowbite](https://flowbite.com/docs/getting-started/astro/) __NEW__
-
+- [Explore the Benefits of Astro.js by Building a Quick App](https://prismic.io/blog/astro-js-tutorial) **NEW**
+- [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) **NEW**
+- [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) **NEW**
+- [Learn how to install Astro with Tailwind CSS and Flowbite](https://flowbite.com/docs/getting-started/astro/) **NEW**
 
 ## 📹 Videos/Screencasts/Twitch
+
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [Brad Traversy's Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
 - [What’s New in Astro v1?](https://www.learnwithjason.dev/what-s-new-in-astro-v1)
@@ -48,29 +51,31 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Taking Astro for a ride - portfolio edition](https://www.youtube.com/watch?v=QkY_rZpjEew)
 
 Pre 1.0
-- [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - __Fredd K. Schott__ & __Jason Lengstorf__
-- [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - __Fred K. Schott__ (YouTube - Speakeasy JS)
-- [Astro in 100 Seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8) - __Jeff Delaney__ (Fireship)
-- [Yapping About Astro](https://www.youtube.com/watch?v=3jPaidbpUIA) - __Chris Coyier__ (CSS Tricks)
-- [Astro FTW! Vue and React can work together in the same app](https://www.youtube.com/watch?v=sUrxtZA2sA0) - __Jamstack Fridays__
-- [Learning Astro with Nate Moore](https://www.youtube.com/watch?v=def9EgQzRUw) - __Nate Moore__ (YouTube - React Wednesdays)
-- [Ship less JS with Astro](https://courses.jamstack.training/p/ship-less-javascript-with-astro) - __Jamstack Training__
-- [Create template layouts for your HTML with Astro SSG](https://www.youtube.com/watch?v=o7iQAF2EvUU) - __Kevin Powell__
+
+- [Ship Less JavaScript with Astro](https://www.learnwithjason.dev/ship-less-javascript-with-astro) - **Fredd K. Schott** & **Jason Lengstorf**
+- [Speakeasy JS – Astro: A New Architecture for the Modern Web](https://www.youtube.com/watch?v=mgkwZqVkrwo) - **Fred K. Schott** (YouTube - Speakeasy JS)
+- [Astro in 100 Seconds](https://www.youtube.com/watch?v=dsTXcSeAZq8) - **Jeff Delaney** (Fireship)
+- [Yapping About Astro](https://www.youtube.com/watch?v=3jPaidbpUIA) - **Chris Coyier** (CSS Tricks)
+- [Astro FTW! Vue and React can work together in the same app](https://www.youtube.com/watch?v=sUrxtZA2sA0) - **Jamstack Fridays**
+- [Learning Astro with Nate Moore](https://www.youtube.com/watch?v=def9EgQzRUw) - **Nate Moore** (YouTube - React Wednesdays)
+- [Ship less JS with Astro](https://courses.jamstack.training/p/ship-less-javascript-with-astro) - **Jamstack Training**
+- [Create template layouts for your HTML with Astro SSG](https://www.youtube.com/watch?v=o7iQAF2EvUU) - **Kevin Powell**
 - [Build faster websites with Astro](https://www.youtube.com/watch?v=x3hiyWikdrE)
 - [Add comments with Airtable and Netlify](https://www.youtube.com/watch?v=IEpP05XSwWE)
 - [Grow Community Through Open Source | Fred K. Schott of Astro| The Secret Sauce](https://www.youtube.com/watch?v=IjujjSU_cOA)
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
-- [__Georges__ on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
-- [__Nate Moore__ on Incremental Framework adoption](https://twitter.com/astrodotbuild/status/1414283562795208707), [Solid.js](https://www.solidjs.com/) support, and a future without `import React from 'react'` for components.
-- [__Matthew Phillips__ on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377), [lit](https://twitter.com/matthewcp/status/1407826230129332228) and server-rendered custom elements
-- [__Matthew Phillips__ on Astro Loading](https://twitter.com/matthewcp/status/1414957982652243970)
-- [__Nate Moore__ on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
+
+- [**Georges** on Astro](https://twitter.com/georges_gomes/status/1380801812656226304) as a meta web framework
+- [**Nate Moore** on Incremental Framework adoption](https://twitter.com/astrodotbuild/status/1414283562795208707), [Solid.js](https://www.solidjs.com/) support, and a future without `import React from 'react'` for components.
+- [**Matthew Phillips** on Astro for Web Components](https://twitter.com/matthewcp/status/1411050609105637377), [lit](https://twitter.com/matthewcp/status/1407826230129332228) and server-rendered custom elements
+- [**Matthew Phillips** on Astro Loading](https://twitter.com/matthewcp/status/1414957982652243970)
+- [**Nate Moore** on baseline JS bundle size](https://twitter.com/n_moore/status/1415067187446960129)
 - [Build a landing page in 30 seconds](https://twitter.com/astrodotbuild/status/1565438744500502528)
 - [Client-side routing experience with Shared Element Transitions API](https://twitter.com/charca/status/1562933467104440321)
 
-
 ## ℹ️ Repositories/Starter Kits/Components
+
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
@@ -83,14 +88,16 @@ Pre 1.0
 - [Astro Theme - Odessey](https://github.com/littlesticksdev/odyssey-theme) - A marketing website theme built with Astro and carefully crafted for startups and businesses
 - [Astro Theme - Sarissa Blog](https://github.com/iozcelik/SarissaBlogAstroStarter) - A responsive blog theme for Astro
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
-- [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS. 
+- [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS.
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
+- [Astro Microfrontends](https://github.com/sasoria/astro-microfrontends) - Showcasing how to set up microfrontends with esm and url imports that share dependencies.
 
 ## Astro Packages/Libraries
+
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
 - [Astro Stylesheet Component](https://www.npmjs.com/package/astro-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
 - [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
@@ -110,6 +117,7 @@ Pre 1.0
 - [Astro Heroicons](https://www.npmjs.com/package/astro-heroicons) - Heroicons as Astro components
 
 ## Astro Integrations
+
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
 - [@storyblok/astro](https://github.com/storyblok/storyblok-astro) - Astro module for the Storyblok, Headless CMS
 - [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) - The UnoCSS integration for Astro
@@ -117,7 +125,8 @@ Pre 1.0
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 
 ## Built with Astro
-- https://astro.build/showcase/ (__Official Showcase Directory__)
+
+- https://astro.build/showcase/ (**Official Showcase Directory**)
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
