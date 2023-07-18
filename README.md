@@ -92,6 +92,7 @@ Pre 1.0
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
+- [Astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
