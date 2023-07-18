@@ -92,6 +92,7 @@ Pre 1.0
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
+- [Turbo Hybrid Astro on Vercel](https://github.com/kyr0/turbo-hybrid-astro-on-vercel) - Astro 2.0 / turbo monorepo project template featuring hybrid rendering (SSG + SSR) configured to deploy on Vercel.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
