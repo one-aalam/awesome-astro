@@ -92,6 +92,7 @@ Pre 1.0
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
+- [Refo](https://github.com/kireerik/refo) - A static site and resume example with styled components.
 - [Astro Blog Starter with Netlify CMS](https://github.com/delucis/astro-netlify-cms-starter) - Template based on the Astro blog starter kit + Astro Netlify CMS integration.
 
 ## Astro Packages/Libraries
@@ -158,3 +159,4 @@ Pre 1.0
 - [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
 - [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
 - [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
+- [Oengi.com](https://oengi.com/)
