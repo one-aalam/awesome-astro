@@ -73,7 +73,6 @@ Pre 1.0
 
 
 ## ℹ️ Repositories/Starter Kits/Components
-- [Refo](https://github.com/kireerik/refo) - A static site and resume example with styled components.
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
@@ -93,6 +92,7 @@ Pre 1.0
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
+- [Refo](https://github.com/kireerik/refo) - A static site and resume example with styled components.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -122,7 +122,6 @@ Pre 1.0
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
-- [Oengi.com](https://oengi.com/)
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
@@ -159,3 +158,4 @@ Pre 1.0
 - [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
 - [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
 - [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
+- [Oengi.com](https://oengi.com/)
