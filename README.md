@@ -93,6 +93,7 @@ Pre 1.0
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
 - [Refo](https://github.com/kireerik/refo) - A static site and resume example with styled components.
+- [Astro Blog Starter with Netlify CMS](https://github.com/delucis/astro-netlify-cms-starter) - Template based on the Astro blog starter kit + Astro Netlify CMS integration.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
