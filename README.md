@@ -113,6 +113,7 @@ Pre 1.0
 - [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
 - [Astro Heroicons](https://www.npmjs.com/package/astro-heroicons) - Heroicons as Astro components
+- [Astroad](https://github.com/mooxl/astroad) - A pre-configured setup for easy website development with Astro and Payload CMS using Docker.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
