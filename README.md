@@ -145,6 +145,7 @@ Pre 1.0
 - [eriksolsen.com](https://eriksolsen.com/)
 - [hexarolls.com](https://hexarolls.com/)
 - [jadezak.com](https://jadezak.com/)
+- [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 - [okikio.dev](https://okikio.dev)
 - [bowling-reference.com](https://bowling-reference.com)
 - [component-party.dev](https://component-party.dev/)
