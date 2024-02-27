@@ -117,6 +117,7 @@ Pre 1.0
 - [Astro Heroicons](https://www.npmjs.com/package/astro-heroicons) - Heroicons as Astro components
 - [Astroad](https://github.com/mooxl/astroad) - A pre-configured setup for easy website development with Astro and Payload CMS using Docker.
 - [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) - Social media share buttons for your Astro site
+- [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
