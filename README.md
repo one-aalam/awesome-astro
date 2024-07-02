@@ -126,6 +126,7 @@ Pre 1.0
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
+- [Astro Open Graph Images](https://github.com/shepherdjerred/astro-opengraph-images) - Generate Open Graph images for your Astro site
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
