@@ -158,7 +158,6 @@ Pre 1.0
 - [andri.dk/](https://andri.dk/)
 - [alchemycodelab.com](https://www.alchemycodelab.com/)
 - [petar.radojevic.rs](https://petar.radojevic.rs/en)
-- [theuprising.syncore.llc](https://theuprising.syncore.llc/)
 - [coolify.io](https://coolify.io/)
 - [zapp.run](https://zapp.run/)
 - [jamstacker.studio](https://jamstacker.studio/)
