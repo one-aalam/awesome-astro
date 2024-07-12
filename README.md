@@ -160,7 +160,6 @@ Pre 1.0
 - [petar.radojevic.rs](https://petar.radojevic.rs/en)
 - [coolify.io](https://coolify.io/)
 - [zapp.run](https://zapp.run/)
-- [jamstacker.studio](https://jamstacker.studio/)
 - [openspartan.com/](https://www.openspartan.com)
 - [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
 - [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
