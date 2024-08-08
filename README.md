@@ -96,6 +96,13 @@ Pre 1.0
 - [Refo](https://github.com/kireerik/refo) - A static site and resume example with styled components.
 - [Astro Blog Starter with Netlify CMS](https://github.com/delucis/astro-netlify-cms-starter) - Template based on the Astro blog starter kit + Astro Netlify CMS integration.
 - [Catonaut](https://github.com/AminoffZ/catonaut) - Browser extension template using Astro and Bun.
+- [Astro Saas](https://astrosaas.vercel.app/) - SaaS website tempalte built with Astro and Tailwind CSS.
+- [AstroMax]((https://astromax.vercel.app/) - Brutalist landing page tempalte built with Astro and Tailwind CSS.
+- [SwissFolio](https://swissfolio.vercel.app/) - A Swiss style landing page template for personal use built with Astro and Tailwind CSS.
+- [Minimal Studio](https://minimalstudio.vercel.app/) - An minimal landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
+- [Gurido](https://gurido.vercel.app/) A super cool, playfull and modern landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
+- [MicroBlog](https://microblog-theta.vercel.app/) - An elegant blog website template built with Astro, Tailwind CSS and MDX.
+- [Quick Store](https://quickstorre.vercel.app/) - A minimal dark theme landing page to sell digital products.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
