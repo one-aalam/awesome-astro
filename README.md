@@ -126,6 +126,7 @@ Pre 1.0
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
+- [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [Astro Open Graph Images](https://github.com/shepherdjerred/astro-opengraph-images) - Generate Open Graph images for your Astro site
 
 ## Built with Astro
@@ -159,12 +160,10 @@ Pre 1.0
 - [andri.dk/](https://andri.dk/)
 - [alchemycodelab.com](https://www.alchemycodelab.com/)
 - [petar.radojevic.rs](https://petar.radojevic.rs/en)
-- [theuprising.syncore.llc](https://theuprising.syncore.llc/)
 - [coolify.io](https://coolify.io/)
 - [zapp.run](https://zapp.run/)
-- [jamstacker.studio](https://jamstacker.studio/)
 - [openspartan.com/](https://www.openspartan.com)
-- [Gizmogirls.tech/](https://www.gizmogirls.tech) ([Source](https://github.com/Elliotclyde/astro-gilmore-blog))
 - [aidankinzett.com](https://aidankinzett.com) ([Source](https://github.com/aidankinzett/astro-blog))
 - [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
 - [Oengi.com](https://oengi.com/)
+- [running.supply](https://running.supply/)
