@@ -97,7 +97,7 @@ Pre 1.0
 - [Astro Blog Starter with Netlify CMS](https://github.com/delucis/astro-netlify-cms-starter) - Template based on the Astro blog starter kit + Astro Netlify CMS integration.
 - [Catonaut](https://github.com/AminoffZ/catonaut) - Browser extension template using Astro and Bun.
 - [Astro Saas](https://astrosaas.vercel.app/) - SaaS website tempalte built with Astro and Tailwind CSS.
-- [AstroMax]((https://astromax.vercel.app/) - Brutalist landing page tempalte built with Astro and Tailwind CSS.
+- [AstroMax](https://astromax.vercel.app/) - Brutalist landing page tempalte built with Astro and Tailwind CSS.
 - [SwissFolio](https://swissfolio.vercel.app/) - A Swiss style landing page template for personal use built with Astro and Tailwind CSS.
 - [Minimal Studio](https://minimalstudio.vercel.app/) - An minimal landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
 - [Gurido](https://gurido.vercel.app/) A super cool, playfull and modern landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
