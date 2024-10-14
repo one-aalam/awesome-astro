@@ -38,6 +38,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Automatic article suggestions in Astro](https://www.nmattia.com/posts/2023-02-25-astro-suggestions/) __NEW__
 - [Learn Astro by creating your web portfolio (Spanish)](https://www.webreactiva.com/bootcamp/astro) __NEW__
 - [Animated SVGs - The Ultimate Web Format](https://aminoffz.github.io/blog/blog/animated-svgs/) __NEW__
+- [An introduction to Astro's content system](https://kristianfreeman.com/an-introduction-to-astros-content-system/) __NEW__
 
 
 ## 📹 Videos/Screencasts/Twitch
