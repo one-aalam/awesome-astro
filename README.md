@@ -104,6 +104,7 @@ Pre 1.0
 - [Gurido](https://gurido.vercel.app/) A super cool, playfull and modern landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
 - [MicroBlog](https://microblog-theta.vercel.app/) - An elegant blog website template built with Astro, Tailwind CSS and MDX.
 - [Quick Store](https://quickstorre.vercel.app/) - A minimal dark theme landing page to sell digital products.
+- [Astro + Clerk Quickstart](https://github.com/clerk/clerk-astro-quickstart)
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -133,6 +134,7 @@ Pre 1.0
 - [@storyblok/astro](https://github.com/storyblok/storyblok-astro) - Astro module for the Storyblok, Headless CMS
 - [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) - The UnoCSS integration for Astro
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
+- [Astro Clerk Quickstart Guide](https://clerk.com/docs/quickstarts/astro) - Integrate Clerk Authentication and User Management for your Astro application
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
