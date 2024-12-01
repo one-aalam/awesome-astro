@@ -132,6 +132,7 @@ Pre 1.0
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
 - [@storyblok/astro](https://github.com/storyblok/storyblok-astro) - Astro module for the Storyblok, Headless CMS
 - [@unocss/astro](https://github.com/unocss/unocss/tree/main/packages/astro) - The UnoCSS integration for Astro
+- [@yeskunall/umami](https://github.com/yeskunall/astro-umami) - Add Umami Analytics to your website
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
