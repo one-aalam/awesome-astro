@@ -75,6 +75,7 @@ Pre 1.0
 
 
 ## ℹ️ Repositories/Starter Kits/Components
+- [Astro Minimal Portfolio](https://github.com/bytekai/minimal-astro-portfolio) - A free modern, minimalistic portfolio template built with Astro.
 - [Astro-react-vue-demo](https://github.com/cassidoo/astro-react-vue-demo)
 - [Astro-netlify-starter](https://github.com/cassidoo/astro-netlify-starter)
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
