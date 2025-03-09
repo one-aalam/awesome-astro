@@ -178,3 +178,4 @@ Pre 1.0
 - [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
 - [Oengi.com](https://oengi.com/)
 - [running.supply](https://running.supply/)
+- [sadman.ca](https://sadman.ca/) ([Source](https://github.com/sadmanca/blogv2))
