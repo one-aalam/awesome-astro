@@ -128,6 +128,7 @@ Pre 1.0
 - [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) - Social media share buttons for your Astro site
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
+- [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
