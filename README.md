@@ -40,6 +40,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Animated SVGs - The Ultimate Web Format](https://aminoffz.github.io/blog/blog/animated-svgs/) __NEW__
 - [An introduction to Astro's content system](https://kristianfreeman.com/an-introduction-to-astros-content-system/) __NEW__
 - [How to Implement RBAC (Role-Based Access Control) in Astro Framework](https://www.permit.io/blog/how-to-implement-rbac-role-based-access-control-in-astro-framework) __NEW__
+- [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -128,6 +129,7 @@ Pre 1.0
 - [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) - Social media share buttons for your Astro site
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
+- [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
@@ -177,3 +179,4 @@ Pre 1.0
 - [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
 - [Oengi.com](https://oengi.com/)
 - [running.supply](https://running.supply/)
+- [sadman.ca](https://sadman.ca/) ([Source](https://github.com/sadmanca/blogv2))
