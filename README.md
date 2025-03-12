@@ -140,6 +140,7 @@ Pre 1.0
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
+- [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
