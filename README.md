@@ -106,6 +106,7 @@ Pre 1.0
 - [Gurido](https://gurido.vercel.app/) A super cool, playfull and modern landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
 - [MicroBlog](https://microblog-theta.vercel.app/) - An elegant blog website template built with Astro, Tailwind CSS and MDX.
 - [Quick Store](https://quickstorre.vercel.app/) - A minimal dark theme landing page to sell digital products.
+- [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
