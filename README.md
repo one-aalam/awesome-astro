@@ -93,6 +93,7 @@ Pre 1.0
 - [Astro Theme - Bigspring Light Astro](https://statichunt.com/themes/astro-bigspring-light) - Astro Business theme using Astro and Tailwind CSS.
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
+- [Astro + Craft CMS Starter](https://github.com/craftcms/starter-astro) - A minimal, production-ready starter for Astro and Craft CMS with GraphQL integration, pagination, and live preview support
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
