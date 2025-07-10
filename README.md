@@ -1,11 +1,22 @@
 # Awesome [Astro](https://twitter.com/astrodotbuild)
+
 Curated resources on __building sites with Astro__, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support. If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏.
 
 Astro is _super duper new_, improving, and becoming more expressive + powerful, but few of the APIs are still evolving. This page aspires to collect all the valauble references out there, and be a useful go-to resource when astro hits it's first stable version.
 
 __[Official Docs](https://docs.astro.build)__ | [Launch a new project](https://astro.new/) , or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
 
+- [Awesome Astro](#awesome-astro)
+  - [✍️ Blogs](#️-blogs)
+  - [📹 Videos/Screencasts/Twitch](#-videosscreencaststwitch)
+  - [🧶 Condensed Thought-pieces (Twitter Threads)](#-condensed-thought-pieces-twitter-threads)
+  - [ℹ️ Repositories/Starter Kits/Components](#ℹ️-repositoriesstarter-kitscomponents)
+  - [Astro Packages/Libraries](#astro-packageslibraries)
+  - [Astro Integrations](#astro-integrations)
+  - [Built with Astro](#built-with-astro)
+
 ## ✍️ Blogs
+
 Look for __NEW__ against the post titles to find the blogs published after Astro 1.0
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
 - [A Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/) - [Chris Coyier](https://twitter.com/chriscoyier)
