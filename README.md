@@ -132,6 +132,7 @@ Pre 1.0
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
 - [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
+- [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
