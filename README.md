@@ -184,4 +184,5 @@ Pre 1.0
 - [running.supply](https://running.supply/)
 - [sadman.ca](https://sadman.ca/) ([Source](https://github.com/sadmanca/blogv2))
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
+- [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 
