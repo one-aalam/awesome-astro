@@ -40,6 +40,8 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Animated SVGs - The Ultimate Web Format](https://aminoffz.github.io/blog/blog/animated-svgs/) __NEW__
 - [An introduction to Astro's content system](https://kristianfreeman.com/an-introduction-to-astros-content-system/) __NEW__
 - [How to Implement RBAC (Role-Based Access Control) in Astro Framework](https://www.permit.io/blog/how-to-implement-rbac-role-based-access-control-in-astro-framework) __NEW__
+- [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
+- [Set up FlyonUI with Astro using Tailwind CSS](https://flyonui.com/docs/framework-integrations/astro/)
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -92,6 +94,7 @@ Pre 1.0
 - [Astro Theme - Bigspring Light Astro](https://statichunt.com/themes/astro-bigspring-light) - Astro Business theme using Astro and Tailwind CSS.
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
+- [Astro + Craft CMS Starter](https://github.com/craftcms/starter-astro) - A minimal, production-ready starter for Astro and Craft CMS with GraphQL integration, pagination, and live preview support
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
 - [Astro-MFE-Demo](https://github.com/itmaginationdemos/astro-multiframework-demo) - Showcasing how to set up a microfrontend running on Astro.
@@ -105,6 +108,9 @@ Pre 1.0
 - [Gurido](https://gurido.vercel.app/) A super cool, playfull and modern landing page template for agencies, studios or freelancers built with Astro and Tailwind CSS.
 - [MicroBlog](https://microblog-theta.vercel.app/) - An elegant blog website template built with Astro, Tailwind CSS and MDX.
 - [Quick Store](https://quickstorre.vercel.app/) - A minimal dark theme landing page to sell digital products.
+- [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
+- [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
+- [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -128,6 +134,7 @@ Pre 1.0
 - [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) - Social media share buttons for your Astro site
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
+- [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
@@ -137,7 +144,9 @@ Pre 1.0
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
+- [Astro Snapshot](https://github.com/twocaretcat/astro-snapshot) - An Astro integration for generating screenshots of your pages automatically at build time
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
+- [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
@@ -178,3 +187,8 @@ Pre 1.0
 - [Oengi.com](https://oengi.com/)
 - [running.supply](https://running.supply/)
 - [brylie.online](https://brylie.online)
+- [sadman.ca](https://sadman.ca/) ([Source](https://github.com/sadmanca/blogv2))
+- [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
+- [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
+- [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
+
