@@ -109,6 +109,7 @@ Pre 1.0
 - [Quick Store](https://quickstorre.vercel.app/) - A minimal dark theme landing page to sell digital products.
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 - [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
+- [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
