@@ -143,6 +143,7 @@ Pre 1.0
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
+- [Astro Snapshot](https://github.com/twocaretcat/astro-snapshot) - An Astro integration for generating screenshots of your pages automatically at build time
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 
