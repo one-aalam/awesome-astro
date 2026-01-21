@@ -108,6 +108,7 @@ Pre 1.0
 - [MicroBlog](https://microblog-theta.vercel.app/) - An elegant blog website template built with Astro, Tailwind CSS and MDX.
 - [Quick Store](https://quickstorre.vercel.app/) - A minimal dark theme landing page to sell digital products.
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
+- [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 - [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
 
 ## Astro Packages/Libraries
