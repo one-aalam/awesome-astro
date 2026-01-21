@@ -184,3 +184,7 @@ Pre 1.0
 - [Oengi.com](https://oengi.com/)
 - [running.supply](https://running.supply/)
 - [sadman.ca](https://sadman.ca/) ([Source](https://github.com/sadmanca/blogv2))
+- [Track - Shadcn UI Changelog Landing Page Template - Free](https://shadcnstudio.com/templates/track-changelog-template-free)
+- [Orion - Shadcn UI AI Agent Landing Page Template](https://shadcnstudio.com/templates/orion-ai-agent-template)
+- [Matter - Shadcn UI Physical Product Landing Page Template](https://shadcnstudio.com/templates/matter-physical-product-template)
+- [Craft - Shadcn UI Portfolio Landing Page Template](https://shadcnstudio.com/templates/craft-portfolio-template)
