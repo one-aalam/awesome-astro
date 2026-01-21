@@ -91,6 +91,7 @@ Pre 1.0
 - [Astro Theme - Cactus](https://github.com/chrismwilliams/astro-theme-cactus) - Simple, opinionated starter built with the Astro framework for blog or website
 - [Astro Theme - AstroWind](https://github.com/onwidget/astrowind) - Started template to make a website using Astro and Tailwind CSS.
 - [Astro Theme - Bigspring Light Astro](https://statichunt.com/themes/astro-bigspring-light) - Astro Business theme using Astro and Tailwind CSS.
+- [Astro Theme - Scholar-Lite](https://github.com/fjd2004711/scholar-lite) - A modern academic portal for research labs and scholars, featuring automatic BibTeX integration and full-text search.
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
 - [Astro + Craft CMS Starter](https://github.com/craftcms/starter-astro) - A minimal, production-ready starter for Astro and Craft CMS with GraphQL integration, pagination, and live preview support
