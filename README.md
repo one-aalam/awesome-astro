@@ -191,4 +191,5 @@ Pre 1.0
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
+- [Absurdity Index](https://absurdityindex.org) - Satirical commentary site scoring real congressional legislation, built with Astro 5 + Tailwind CSS v4
 
