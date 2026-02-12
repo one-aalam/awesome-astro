@@ -150,6 +150,7 @@ Pre 1.0
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
+- [Lumina](https://github.com/YY-GX/Lumina) - Academic website template for researchers with BibTeX-native publications, 10 themes × 5 palettes, 18 toggleable pages, and one-file YAML configuration. Built with Astro 5 + Tailwind CSS 4.
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
