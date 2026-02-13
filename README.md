@@ -41,6 +41,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [An introduction to Astro's content system](https://kristianfreeman.com/an-introduction-to-astros-content-system/) __NEW__
 - [How to Implement RBAC (Role-Based Access Control) in Astro Framework](https://www.permit.io/blog/how-to-implement-rbac-role-based-access-control-in-astro-framework) __NEW__
 - [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
+- [Set up FlyonUI with Astro using Tailwind CSS](https://flyonui.com/docs/framework-integrations/astro/)
 
 
 ## 📹 Videos/Screencasts/Twitch
@@ -110,6 +111,8 @@ Pre 1.0
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 - [Astro Starter](https://github.com/mnyorba/astro-starter) - Modern starter template with Astro 5, Tailwind CSS 4, MDX, content collections, sitemap and GitHub Actions for CI/CD.
 
+- [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
+- [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -143,6 +146,7 @@ Pre 1.0
 - [Google Font Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase
 - [Astro Font Picker](https://github.com/randombits-dev/astro-font-picker) - A Dev Toolbar Integration that lets you try out different fonts on your website
+- [Astro Snapshot](https://github.com/twocaretcat/astro-snapshot) - An Astro integration for generating screenshots of your pages automatically at build time
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 
@@ -184,6 +188,9 @@ Pre 1.0
 - [ukuvota.world](https://ukuvota.world) ([Source](https://github.com/waotzi/ukuvota))
 - [Oengi.com](https://oengi.com/)
 - [running.supply](https://running.supply/)
+- [brylie.online](https://brylie.online)
 - [sadman.ca](https://sadman.ca/) ([Source](https://github.com/sadmanca/blogv2))
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
+- [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
+- [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 
