@@ -42,7 +42,8 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [How to Implement RBAC (Role-Based Access Control) in Astro Framework](https://www.permit.io/blog/how-to-implement-rbac-role-based-access-control-in-astro-framework) __NEW__
 - [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
 - [Set up FlyonUI with Astro using Tailwind CSS](https://flyonui.com/docs/framework-integrations/astro/)
-
+- [How to Add a "Was This Page Helpful?" Feedback Widget to Astro Starlight](https://forminit.com/blog/was-this-page-helpful-feedback-widget/)
+- [Handle Form Submissions in Astro Without a Backend](https://forminit.com/blog/how-to-add-contact-form-astro/)
 
 ## 📹 Videos/Screencasts/Twitch
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
