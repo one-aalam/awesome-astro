@@ -191,4 +191,6 @@ Pre 1.0
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
+- [PDFGem](https://pdfgem.io/) - Free browser-based PDF toolkit with 28 tools (merge, split, compress, OCR, sign, convert). Client-side processing via WebAssembly. 16 languages.
+- [Vizua](https://vizua.io/) - Free browser-based image toolkit with 91 tools (compress, resize, convert, remove background, upscale, OCR). Client-side via WebAssembly. 16 languages.
 
