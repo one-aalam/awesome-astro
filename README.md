@@ -191,4 +191,5 @@ Pre 1.0
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
+- [讀角獸 (Ducorn)](https://ducorn.com) - Hybrid SSR/static publication built with Astro 4 + Cloudflare Pages/Workers/D1/KV/R2. Full Cloudflare stack: D1 for content, KV for sessions, R2 for media. 8 long-form Traditional Chinese deep-analysis articles.
 
