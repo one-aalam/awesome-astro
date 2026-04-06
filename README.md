@@ -5,6 +5,7 @@ Astro is _super duper new_, improving, and becoming more expressive + powerful, 
 
 __[Official Docs](https://docs.astro.build)__ | [Launch a new project](https://astro.new/) , or use [Code Sandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-astro/main?file=%2FREADME.md)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Astro framework workflow orchestration, automated static site generation management, and multi-agent coordination. MIT licensed.
 ## ✍️ Blogs
 Look for __NEW__ against the post titles to find the blogs published after Astro 1.0
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro) - [Fred K. Schott](https://twitter.com/FredKSchott)
