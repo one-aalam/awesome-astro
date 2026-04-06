@@ -191,4 +191,9 @@ Pre 1.0
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
+- - [loaded.](https://loaded.ch) - Swiss web design agency. 100/100 Lighthouse.
+- [Expat Savvy](https://expat-savvy.ch) - Expat platform for Switzerland.
+- [Insurance Guide](https://insurance-guide.ch) - Swiss insurance information portal.
+- [Expat Services](https://expat-services.ch) - Expat services platform Switzerland.
+- [ReloFinder](https://relofinder.ch) - Relocation service comparison portal.
 
