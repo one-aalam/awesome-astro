@@ -113,6 +113,7 @@ Pre 1.0
 - [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
 - - [AstroDeck](https://github.com/holger1411/astrodeck) - Production-ready Astro 6 starter with Tailwind CSS 4, shadcn/ui, dark mode, 11 page templates and 5 AI agents (AGENTS.md)
   - - [Brook 2](https://github.com/holger1411/astro-brook) - Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography
+- [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -120,6 +121,7 @@ Pre 1.0
 - [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
 - [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
 - [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
+- 
 - [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
 - [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
 - [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
