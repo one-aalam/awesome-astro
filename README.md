@@ -147,6 +147,7 @@ Pre 1.0
 - [Astro Snapshot](https://github.com/twocaretcat/astro-snapshot) - An Astro integration for generating screenshots of your pages automatically at build time
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
+- [astro-shopsavvy](https://github.com/shopsavvy/astro-shopsavvy) - Astro integration for product search, price comparison, and deal discovery via the ShopSavvy Data API with a Content Loader and zero-JS components.
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
