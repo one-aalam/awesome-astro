@@ -147,6 +147,7 @@ Pre 1.0
 - [Astro Snapshot](https://github.com/twocaretcat/astro-snapshot) - An Astro integration for generating screenshots of your pages automatically at build time
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
+- [@dualmark/astro](https://github.com/dodopayments/dualmark/tree/main/packages/astro) - Open-source AEO (Answer Engine Optimization) integration. Auto-generates `.md` endpoints from your collections, ships a `Link rel=alternate` middleware, and generates `/llms.txt` — so AI search engines can read your Astro site cleanly. Includes a conformance CLI (`dualmark verify <url>`).
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
