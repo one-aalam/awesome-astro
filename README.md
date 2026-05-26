@@ -191,4 +191,4 @@ Pre 1.0
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
-
+- [Amanda's Residential Cleaning Services](https://amandas-residential-cleaning.thatwebhostingguy.com/) - Astro static export for a Northwest Arkansas cleaning service. 24 pages including 8 city service-area pages, full LocalBusiness schema, AI-citation surfaces (llms.txt + llms-full.txt + aeo.json), and 91/100 mobile Lighthouse. Built by [ThatDevPro](https://www.thatdevpro.com).
