@@ -191,4 +191,5 @@ Pre 1.0
 - [Matrix Digital Rain Online with Terminal](https://matrixscreensaver.online/)
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
+- [Prismix](https://prismix.dev) - AI hub combining real-time status monitoring of 75+ AI services, curated news from 70+ sources, and a directory of 500+ MCP servers. Built on Astro 5 SSR + Cloudflare Workers.
 
