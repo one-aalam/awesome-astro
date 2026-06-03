@@ -111,6 +111,12 @@ Pre 1.0
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 - [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 - [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
+- [Astroplate](https://github.com/zeon-studio/astroplate) - A free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project.
+- [Bookworm Light Astro](https://github.com/themefisher/bookworm-light-astro) - A minimal multi-author Astro blog theme that is perfect for any kind of blog website.
+- [Automark Astro](https://github.com/themefisher/automark-astro) -  A feature-rich Astro theme specifically crafted for GoHighLevel White-Label SaaS resellers and agencies.
+- [Northendlab Light Astro](https://github.com/themefisher/northendlab-light-astro) - A minimal, free personal blog theme built with Astro and Tailwind CSS, designed for individuals and writers.
+- [Dockit Astro](https://github.com/themefisher/dockit-astro) - A modern documentation theme built with Astro and Tailwind CSS, designed for product teams, SaaS developers, API providers, and software companies.
+- [Pinwheel Astro](https://github.com/themefisher/pinwheel-astro) - A multipurpose free SaaS theme built with Astro and Tailwind CSS, designed for businesses, startups, and agencies.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
