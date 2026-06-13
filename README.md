@@ -176,6 +176,7 @@ Pre 1.0
 - [jmae.xyz](https://jmae.xyz/work/)
 - [meteor10](https://meteor10.sachagreif.com/)
 - [Astro Hackathon Showcase](https://hackathon-1-0-projects.vercel.app/)
+- [Prismix](https://prismix.dev) — AI hub built with Astro 5 SSR + Cloudflare Workers + KV + Preact islands: live status for 75+ AI services, curated news from 70+ sources, and a 600+ MCP server directory.
 - [andri.dk/](https://andri.dk/)
 - [alchemycodelab.com](https://www.alchemycodelab.com/)
 - [petar.radojevic.rs](https://petar.radojevic.rs/en)
