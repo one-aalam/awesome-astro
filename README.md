@@ -153,6 +153,7 @@ Pre 1.0
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
+- [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) — 600+ ⭐)
 - [Rokt](https://www.rokt.com/)
 - [Backlight](https://backlight.dev/)
 - [Apparently.cz](https://apparently.cz)
