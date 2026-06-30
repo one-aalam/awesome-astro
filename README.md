@@ -83,6 +83,7 @@ Pre 1.0
 - [Astro Ink](https://github.com/one-aalam/astro-ink) - Crisp, minimal, personal blog theme for Astro
 - [Astro Me](https://github.com/one-aalam/astro-me) - Crisp, minimal, personal portfolio theme for Astro
 - [Astro Starter Kit](https://github.com/one-aalam/astro-starter-kit)
+- [Astro Sassify Template](https://github.com/larry-xue/astro-sassify-template) - A modern, responsive Astro template with Tailwind CSS, Alpine.js, dark mode, page transitions, and SEO-friendly defaults.
 - [Astro Static Tweet](https://github.com/rebelchris/astro-static-tweet)
 - [Astro Translation Example](https://github.com/tylergaw/astro-example-i18next)
 - [Astro Ghost CMS Starter](https://github.com/PhilDL/astro-starter-ghost) - A Ghost CMS starter for Astro
@@ -193,4 +194,3 @@ Pre 1.0
 - [Tally](https://tally.johng.io) ([Source](https://github.com/twocaretcat/Tally))
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
-
