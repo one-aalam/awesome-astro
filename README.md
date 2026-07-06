@@ -154,6 +154,7 @@ Pre 1.0
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
 - [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) — 600+ ⭐)
+- [RoundCut](https://roundcut.app/) - Free client-side image tools (circle crop, compress, convert, background removal) in 29 languages — Astro 6 SSG with WASM codecs running in the browser.
 - [Rokt](https://www.rokt.com/)
 - [Backlight](https://backlight.dev/)
 - [Apparently.cz](https://apparently.cz)
