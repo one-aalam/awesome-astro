@@ -94,6 +94,7 @@ Pre 1.0
 - [Astro Theme - Bigspring Light Astro](https://statichunt.com/themes/astro-bigspring-light) - Astro Business theme using Astro and Tailwind CSS.
 - [Astro TAP Stack](https://github.com/codiume/the-tap-stack) - Opinionated astro starter kit (Typescript & Tailwind + Astro + Prisma & Planet scale)
 - [Astro Deno Starter](https://github.com/reggi/astro-deno-starter)
+- [Astro + UnfoldCMS](https://unfoldcms.com/blog/astro-cms-guide) - Use UnfoldCMS as a self-hosted Laravel headless CMS backend for Astro — REST API v1, HMAC webhooks, and Sanctum auth. [GitHub](https://github.com/hpakdaman/unfoldcms) · [Demo](https://demo.unfoldcms.com)
 - [Astro + Craft CMS Starter](https://github.com/craftcms/starter-astro) - A minimal, production-ready starter for Astro and Craft CMS with GraphQL integration, pagination, and live preview support
 - [Astro + Supabase + Vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel)
 - [Astro + Snipcart](https://github.com/lloydjatkinson/astro-snipcart)
