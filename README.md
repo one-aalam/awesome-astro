@@ -118,7 +118,7 @@ Pre 1.0
 - [Astro Command](https://www.npmjs.com/package/astro-command) - Statically render commands and build components in any language
 - [Astro Pandoc](https://github.com/trashhalo/astro-pandoc) - Pandoc rendering for Astro
 - [Astro SPA](https://www.npmjs.com/package/astro-spa) - The SPA library for Astro that will turn your website into a Single Page Application
-- [Astro Icon](https://github.com/natemoo-re/astro-icon) - Straight-forward Icon component for Astro
+- [Astro Iconset](https://github.com/sudeep2003/astro-iconset) - SVG icon integration with Iconify, named directories, and framework island support for Astro
 - [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
 - [Accessible Astro Components](https://www.npmjs.com/package/accessible-astro-components)
 - [Astro Eleventy Image](https://github.com/Princesseuh/astro-eleventy-img)
