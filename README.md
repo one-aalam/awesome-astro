@@ -111,6 +111,7 @@ Pre 1.0
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 - [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 - [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
+- [Marble Taxonomy Explorer](https://github.com/ashutoshsinghpr7/marble-taxonomy-explorer) - Static site with 1,603 pages built with Astro 7 + Svelte. Renders the open Marble Skill Taxonomy with search, graph visualization (Cytoscape.js), statistics dashboard, and learning pathways.
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
