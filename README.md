@@ -111,6 +111,7 @@ Pre 1.0
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 - [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 - [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
+- [Ridgeline Lite](https://github.com/JulyFire365/ridgeline-lite) - Free business theme for roofing & home-services companies built with Astro 5 and Tailwind CSS 4 — quote form, sticky call bar, review cards, Lighthouse 95+
 
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
