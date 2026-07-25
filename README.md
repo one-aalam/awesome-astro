@@ -42,6 +42,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [How to Implement RBAC (Role-Based Access Control) in Astro Framework](https://www.permit.io/blog/how-to-implement-rbac-role-based-access-control-in-astro-framework) __NEW__
 - [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
 - [Set up FlyonUI with Astro using Tailwind CSS](https://flyonui.com/docs/framework-integrations/astro/)
+- [Server-Side Tracking on Astro & Shopify](https://stackarchitect.xyz/blog/shopify-server-side-tracking-complete-setup-guide) - Stack Architect
 
 
 ## 📹 Videos/Screencasts/Twitch
