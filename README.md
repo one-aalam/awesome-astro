@@ -111,7 +111,8 @@ Pre 1.0
 - [Astro Citrus](https://github.com/ArtemKutsan/astro-citrus) - A modern Astro blog theme with MDX and Tailwind CSS
 - [Starwind UI](https://github.com/starwind-ui/starwind-ui) - A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4.
 - [WebcoreUI](https://webcoreui.dev/) - Configurable and themeable Astro component UI library
-
+- [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
+  
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
 - [Astro Stylesheet Component](https://www.npmjs.com/package/astro-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
