@@ -202,3 +202,4 @@ Pre 1.0
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
 
+- [arthurs.tw](https://arthurs.tw) - Traditional Chinese consultancy site, content-collection driven with design and copy linters in CI, sitemap with per-page lastmod, and JSON-LD on every route ([Source](https://github.com/yao-care/arthurs.tw))
