@@ -201,4 +201,8 @@ Pre 1.0
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
+- [Freshie Guide](https://guide.stimmie.dev/) ([Source](https://github.com/smmariquit/freshie-guide)) - Open-source handbooks for incoming UPLB freshmen.
+- [joinpizza.fun](https://www.joinpizza.fun/) ([Source](https://github.com/smmariquit/joinpizza.fun)) - Site for Pizza & Friends, a Filipino tech community.
+- [Room TBA](https://room-tba.uplbtools.me/) ([Source](https://github.com/uplbtools/room-tba)) - UPLB campus room finder with Svelte islands, offline PWA, and OpenStreetMap directions.
+- [uplbtools.me](https://www.uplbtools.me/) ([Source](https://github.com/uplbtools/uplbtools.me)) - Hub listing open-source utilities for UPLB students.
 
