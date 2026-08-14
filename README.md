@@ -154,6 +154,7 @@ Pre 1.0
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 - [@aeorank/astro](https://github.com/vinpatel/aeorank) - AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files
+- [Knocket](https://knocket.com) - Free-forever live chat widget that drops into Astro with one script tag. Unified Telegram/email inbox, shareable contact page, no seat limits.
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
