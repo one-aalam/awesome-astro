@@ -115,6 +115,11 @@ Pre 1.0
 - [Brook 2](https://github.com/holger1411/astro-brook) - Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography
 - [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
+- [Astroloop](https://github.com/larry-xue/astroloop) - Landing page template for AI agent products, with an agent-loop diagram and a per-tool permission matrix. Astro 7, Tailwind 4, zero client JS, Lighthouse 100.
+- [Astro Sassify](https://github.com/larry-xue/astro-sassify-template) - SaaS landing template built with Astro, Tailwind CSS and Alpine.js, with a design system, dark mode and view transitions.
+- [Astro Zen Blog](https://github.com/larry-xue/astro-zen-blog) - Minimal, SEO-friendly blog template with content collections, tag archives and typography tuned for long-form reading.
+- [Apple-Style Portfolio](https://github.com/larry-xue/apple-style-portfolio) - Minimalist portfolio template inspired by Apple's design language, built with Astro, Tailwind CSS, GSAP and Three.js.
+- [Quiet Bar](https://github.com/larry-xue/quiet-bar) - Vintage industrial template for bars and restaurants, with zero third-party dependencies and every section driven from one config file.
   
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
