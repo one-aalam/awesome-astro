@@ -202,3 +202,4 @@ Pre 1.0
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
 
+- [Optymizer](https://optymizer.com) - Local marketing site for home-service trades (locksmiths, HVAC, garage door, movers). Astro v6.1.1, static output, Vercel.
