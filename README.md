@@ -135,6 +135,7 @@ Pre 1.0
 - [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
 - [Astro Heroicons](https://www.npmjs.com/package/astro-heroicons) - Heroicons as Astro components
+- [@iconmind/astro](https://github.com/Iconmind/iconmind) - 2,400+ SVG icons on a 24px grid as Astro components, in outline and duotone
 - [Astroad](https://github.com/mooxl/astroad) - A pre-configured setup for easy website development with Astro and Payload CMS using Docker.
 - [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) - Social media share buttons for your Astro site
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
