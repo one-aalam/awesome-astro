@@ -140,6 +140,8 @@ Pre 1.0
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
 - [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
+- [astro-seo-enforcer](https://github.com/SlashGordon/astro-seo-enforcer) - Checks the built HTML for SEO problems such as bad titles and meta descriptions, broken internal links, missing canonicals, duplicate content and sitemap gaps, and fails the build when it finds errors.
+- [astro-gallery](https://github.com/SlashGordon/astro-gallery) - Folder-driven image galleries built on `astro:assets`: justified, grid, editorial and slideshow layouts, an EXIF-date timeline, and a photo map that requests no map tiles until the visitor consents.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
