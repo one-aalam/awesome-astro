@@ -42,6 +42,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [How to Implement RBAC (Role-Based Access Control) in Astro Framework](https://www.permit.io/blog/how-to-implement-rbac-role-based-access-control-in-astro-framework) __NEW__
 - [How to use Goodreads data in Astro](https://sadman.ca/posts/how-to-use-goodreads-data-in-astro/) __NEW__
 - [Set up FlyonUI with Astro using Tailwind CSS](https://flyonui.com/docs/framework-integrations/astro/)
+- [Moving an 8-year-old WordPress site without losing a single URL](https://synapsereality.io/wordpress-site-migration-without-losing-a-url/)
 
 
 ## 📹 Videos/Screencasts/Twitch
