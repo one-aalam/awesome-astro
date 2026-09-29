@@ -157,6 +157,7 @@ Pre 1.0
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
+- [Walking with Jesus](https://lennoxx2703-collab.github.io/jesus-daily-blog/) - Daily Christian reflections (Astro + GitHub Pages), public-domain Scripture readings, and sourced encounter stories ([Source](https://github.com/lennoxx2703-collab/jesus-daily-blog))
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
