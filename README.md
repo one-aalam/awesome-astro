@@ -134,6 +134,7 @@ Pre 1.0
 - [Sarissa Pagination](https://github.com/iozcelik/SarissaPagination) - Add page number buttons for pagination. Automatically add and disable numbers as current page number.
 - [Astro Google Fonts Optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - An Astro integration to optimize the Google Fonts loading performance
 - [Astro SEO Meta](https://github.com/codiume/astro-seo-meta) - Astro component to add tags that are relevant for search engine optimization (SEO) to your pages.
+- [Astro SEO Toolkit](https://github.com/RelayStack/astro-seo-toolkit) - Zero-dependency llms.txt, sitemap, robots.txt generators, JSON-LD builders, IndexNow + installable agent skill.
 - [Astro Heroicons](https://www.npmjs.com/package/astro-heroicons) - Heroicons as Astro components
 - [Astroad](https://github.com/mooxl/astroad) - A pre-configured setup for easy website development with Astro and Payload CMS using Docker.
 - [Astro Social Share](https://github.com/silent1mezzo/astro-social-share) - Social media share buttons for your Astro site
