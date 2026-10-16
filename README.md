@@ -115,6 +115,9 @@ Pre 1.0
 - [Brook 2](https://github.com/holger1411/astro-brook) - Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography
 - [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
+- [Craftline](https://github.com/formgong/craftline-astro-theme) - Dark website theme for trades (plumber, electrician) built with Astro and Tailwind CSS, with a scroll story and a quote form.
+- [Orrery](https://github.com/formgong/orrery-astro-theme) - Website theme for consultants and B2B firms built with Astro and Tailwind CSS, with a particle network and stacking service cards.
+- [Shoal](https://github.com/formgong/shoal-astro-theme) - Real estate agent website theme built with Astro, with service tiles, area guides and an enquiry form.
   
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
