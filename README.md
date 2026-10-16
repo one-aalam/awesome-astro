@@ -201,4 +201,5 @@ Pre 1.0
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
+- [Nomad Budget](https://nomadbudget.rubeeks.co/) - Multi-currency expense tracker site and bilingual blog with a custom zero-dependency WebGL 3D journey globe ([Source](https://github.com/SelocanTR/NomadBudgetWebLanding))
 
