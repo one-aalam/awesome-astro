@@ -201,4 +201,5 @@ Pre 1.0
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
+- [Kuro free video tools](https://meetkuro.com/tools/?utm_source=awesome-astro&utm_medium=directory&utm_campaign=2026-10-distribution) - Eight browser-only video tools (compress, resize, trim, mute, convert, extract audio, safe zones, frame grab); static Astro on Cloudflare Workers with Mediabunny (WebCodecs), so files never leave the device
 
