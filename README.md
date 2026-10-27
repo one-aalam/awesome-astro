@@ -157,6 +157,7 @@ Pre 1.0
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
+- [Sandbox Physics](https://sandboxphysics.com/) - Interactive physics experiments with English and Chinese explanations, built with Astro.
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
