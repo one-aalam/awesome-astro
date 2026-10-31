@@ -157,6 +157,7 @@ Pre 1.0
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
+- [DevOmniTools](https://www.devomnitools.com) - Free, client-side suite of 80+ developer utilities built with Astro, Tailwind CSS, and Web Workers. 100% in-browser processing with zero server uploads. ([Source](https://github.com/contactumairrana/devomnitools))
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
