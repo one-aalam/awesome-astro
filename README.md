@@ -154,6 +154,7 @@ Pre 1.0
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 - [@aeorank/astro](https://github.com/vinpatel/aeorank) - AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files
+- [@verbaly/astro](https://github.com/AronSoto/verbaly/tree/develop/packages/astro) - Write text in your .astro pages and components, and the build renders your static site in every language, with hreflang and sitemaps.
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
