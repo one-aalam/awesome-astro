@@ -115,6 +115,8 @@ Pre 1.0
 - [Brook 2](https://github.com/holger1411/astro-brook) - Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography
 - [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
+- [Contentrain Astro Blog Starter](https://github.com/Contentrain/contentrain-starter-astro-blog) - Astro blog starter with content models, seed content and a typed generated client
+- [Contentrain Astro Landing Starter](https://github.com/Contentrain/contentrain-starter-astro-landing) - Astro landing page starter with content models and a typed generated client
   
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
@@ -140,6 +142,8 @@ Pre 1.0
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
 - [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
+- [Contentrain Astro loader](https://github.com/Contentrain/ai/tree/main/packages/sdk/js) - Content layer loader that brings JSON and Markdown content governed in your Git repository into Astro content collections.
+- [Contentrain Migrate](https://migrate.contentrain.io) - Moves an existing WordPress site to an Astro project in your own GitHub, keeping content, URLs (301 redirects) and SEO.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
