@@ -202,3 +202,5 @@ Pre 1.0
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
 
+- [Headway](https://headway.shivrajsinh.in) - High-performance phone-friendly bus and transit timetables generated from open GTFS data, built with Astro and static web performance architecture ([Source](https://github.com/shivrajsinhzala/headway))
+- [Stopwatch Transit](https://transit.shivrajsinh.in) - Free bus, tram, train and ferry timetables for 120+ transit networks across 6 countries, built with Astro from open GTFS schedules ([Source](https://github.com/shivrajsinhzala/transit-timetables))
