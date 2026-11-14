@@ -157,6 +157,7 @@ Pre 1.0
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
+- [DocPixelKB](https://docpixelkb.com) - A free, 100% client-side passport and visa photo calibrator.
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
