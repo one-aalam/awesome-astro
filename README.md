@@ -141,6 +141,7 @@ Pre 1.0
 - [Astro Gist](https://github.com/kotosha-real/astro-gist) - Astro component to easily add GitHub gists to your blog
 - [Astro Breadcrumbs](https://github.com/felix-berlin/astro-breadcrumbs) - Well configurable breadcrumb component for Astro. Create breadcrumbs completely dynamically or specify exactly how they should look.
 - [astro-loader-goodreads](https://github.com/sadmanca/astro-loader-goodreads) - Load Goodreads data for books in shelves/lists, user updates, and author blogs into Astro.
+- [@lexingtonthemes/seo](https://github.com/Lexington-Themes/lexington-seo) - One SEO component for Astro: meta tags, canonical, Open Graph, Twitter Cards, robots, hreflang and JSON-LD.
 
 ## Astro Integrations
 - [Astro Content](https://github.com/JulianCataldo/astro-content) - A text based, structured content manager, for edition and consumption — AstroJS Integration
@@ -155,6 +156,7 @@ Pre 1.0
 - [ParaglideJS](https://inlang.com/m/iljlwzfs/library-inlang-paraglideJsAdapterAstro) - A tiny, type-safe i18n integration that only ships messages used on islands to the client.
 - [astro-cloudflare-pages-headers](https://github.com/martinsilha/astro-cloudflare-pages-headers) - A lightweight integration for Astro that automatically generates a Cloudflare Pages `_headers` file for deployments based on your server header configuration.
 - [@aeorank/astro](https://github.com/vinpatel/aeorank) - AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files
+- [Astro Image Inspector](https://github.com/Lexington-Themes/astro-image-inspector) - A Dev Toolbar app that shows each image's natural size, rendered size and loading mode on hover, and flags upscaled, oversized or unsized images.
 
 ## Built with Astro
 - https://astro.build/showcase/ (__Official Showcase Directory__)
@@ -202,4 +204,7 @@ Pre 1.0
 - [Goldplated Photos](https://goldplated.photos) - Self-hosted photo gallery with file-based storage, password protection, and PhotoSwipe lightbox ([Source](https://github.com/klukacin/goldplated-photos))
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool built with Astro and Svelte 5
 - [Watchboard](https://artemiop.com/watchboard/) - AI-powered intelligence dashboard platform with 48 trackers, CesiumJS 3D globe, Leaflet maps, and nightly automated data updates ([Source](https://github.com/ArtemioPadilla/watchboard))
+- [Kobbe](https://kobbe.io/) - Privacy-first web analytics that connects Stripe, Polar and Paddle to your traffic, with no cookies or banners.
+- [Colors & Fonts](https://colorsandfonts.com/) - Free color and font tools: palettes, CSS gradients, font pairings, mesh gradients, shaders and shadcn/Tailwind theme export.
+- [Dabbit](https://dabbit.app/) - A pixel-exact, color-managed color picker for macOS that sends palettes straight to Figma.
 
