@@ -117,6 +117,9 @@ Pre 1.0
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
 - [Nova](https://github.com/Wiktorkulas51/template-t001-nova) - Free creative agency landing page template built with Astro and Tailwind CSS. Live demo: https://webscale-nova.vercel.app/
 - [Forma](https://github.com/Wiktorkulas51/forma-astro-template) - Free construction and renovation company website template built with Astro and Tailwind CSS. Live demo: https://webscale-forma.vercel.app/
+- [Nightshift](https://github.com/Wiktorkulas51/nightshift-astro-template) - Animated AI / SaaS landing page in a risograph poster style (Astro 7, React, Tailwind 4, Motion). Live demo: https://nightshift-astro-template.vercel.app
+- [Alder & Tide](https://github.com/Wiktorkulas51/alder-tide-astro-template) - Animated boutique hotel website with booking bar, room carousel and tide chart. Live demo: https://alder-tide-astro-template.vercel.app
+- [Kite](https://github.com/Wiktorkulas51/kite-astro-template) - Animated fintech app landing page with a holographic card and invoice demo. Live demo: https://kite-astro-template.vercel.app
   
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
