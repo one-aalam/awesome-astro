@@ -156,6 +156,7 @@ Pre 1.0
 - [@aeorank/astro](https://github.com/vinpatel/aeorank) - AEO (Answer Engine Optimization) integration for Astro — generates llms.txt, schema.json, and more AI-readable files
 
 ## Built with Astro
+- [Yuanmingyuan Restoration](https://github.com/Ivan666jjj/yuanmingyuan-restoration) - Bilingual cultural-heritage restoration atlas with an interactive SVG map, built with Astro. [Live](https://ivan666jjj.github.io/yuanmingyuan-restoration/).
 - https://astro.build/showcase/ (__Official Showcase Directory__)
 - [Designcember](https://designcember.com/#3rd)
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
