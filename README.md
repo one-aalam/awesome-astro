@@ -116,6 +116,8 @@ Pre 1.0
 - [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
   
+- [Briefline](https://fridburg.gumroad.com/l/briefline-astro) - Paid six-page website kit for independent B2B consultants, with central JSON content, generated case-study routes and plain CSS. [Live demo](https://printpackqa20261123.z6.web.core.windows.net/briefline/).
+
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
 - [Astro Stylesheet Component](https://www.npmjs.com/package/astro-stylesheet) - Abstract the monotony of adding stylesheets to any Astro project
