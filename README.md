@@ -114,6 +114,7 @@ Pre 1.0
 - [AstroDeck](https://github.com/holger1411/astrodeck) - Production-ready Astro 6 starter with Tailwind CSS 4, shadcn/ui, dark mode, 11 page templates and 5 AI agents (AGENTS.md)
 - [Brook 2](https://github.com/holger1411/astro-brook) - Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography
 - [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
+- [themes.dev](https://www.themes.dev/astro/) - Free native Astro components (SEO head, table of contents, Portable Text, theme toggle and more) plus shadcn/ui blocks and 26 Astro website themes; the free items are MIT and install with the shadcn CLI, the rest is a paid one-time licence.
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
   
 ## Astro Packages/Libraries
