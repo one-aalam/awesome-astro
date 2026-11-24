@@ -161,6 +161,7 @@ Pre 1.0
 - [Serverless(CSS Tricks)](https://serverless.css-tricks.com/)
 - [Trivago - Tech Blog](https://tech.trivago.com/)
 - [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan. 400+ Markdown articles, bilingual, knowledge graph, and public API. ([GitHub](https://github.com/frank890417/taiwan-md) — 600+ ⭐)
+- [Owais Khan](https://owaiskhan.website) - Engineering blog and suite of 55+ client-side developer utilities and financial calculators built with Astro, zero telemetry, and 100/100 Lighthouse performance. ([GitHub](https://github.com/ReaperOAK/owaiskhan-website))
 - [Rokt](https://www.rokt.com/)
 - [Backlight](https://backlight.dev/)
 - [Apparently.cz](https://apparently.cz)
