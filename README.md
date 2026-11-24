@@ -115,6 +115,7 @@ Pre 1.0
 - [Brook 2](https://github.com/holger1411/astro-brook) - Minimalist Astro 6 blog template with Tailwind CSS 4, content collections, MDX, dark mode and clean typography
 - [APEX](https://templatedeck.com/templates/apex) - Premium multi-page B2B SaaS template with Astro 6, Tailwind CSS 4, shadcn/ui, dark mode, 16 page templates and AI-first AGENTS.md workflows
 - [Tailcast](https://github.com/matt765/Tailcast) - Dark-themed website template built with Astro and Tailwind CSS. 8 pages, SEO optimization, and view transitions.
+- [Astro SSR and Fastify Playground](https://github.com/WebDecoy/node/tree/dfb8b01c28794df0a73c38e7b5d6b10b6a2bd8ea/playgrounds/astro-fastify) - A runnable Astro Node adapter example that tests which requests reach Fastify and how monitor-mode decisions relate to HTTP responses.
   
 ## Astro Packages/Libraries
 - [Astro SEO](https://github.com/jonasmerlin/astro-seo) - Better SEO with Astro
